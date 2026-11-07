@@ -1,0 +1,27 @@
+{
+    "Name": "EEG during Balinese dance movements and balance tasks in expert dancers and non-dancers",
+    "BIDSVersion": "1.9.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "I Putu Adiartha Griadhi",
+        "Nila Wahyuni",
+        "Indira Vidiari Juhanna",
+        "Ida Ayu Astiti Suadnyana"
+    ],
+    "HowToAcknowledge": "Please cite this dataset's DOI and the data article describing it (Griadhi IPA, Wahyuni N, Juhanna IV, Suadnyana IAA, Data in Brief).",
+    "EthicsApprovals": [
+        "Research Ethics Committee of the Faculty of Medicine, Universitas Udayana/Sanglah General Hospital (Komisi Etik Penelitian FK Unud/RSUP Sanglah), No. 3259/UN14.2.2.VII.14/LT/2026, 31 August 2026"
+    ],
+    "ReferencesAndLinks": [
+        "https://doi.org/10.5281/zenodo.24026706"
+    ],
+    "GeneratedBy": [
+        {
+            "Name": "MNE-BIDS",
+            "Version": "0.20.0",
+            "CodeURL": "https://mne.tools/mne-bids/"
+        }
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds009081.v1.0.0"
+}

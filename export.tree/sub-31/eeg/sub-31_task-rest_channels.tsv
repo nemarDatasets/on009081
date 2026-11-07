@@ -1,0 +1,19 @@
+name	type	units	low_cutoff	high_cutoff	description	sampling_frequency	status	status_description	reference
+Fp1-A1	EEG	µV	n/a	n/a	ElectroEncephaloGram	100.0	good	n/a	A1
+Fp2-A2	EEG	µV	n/a	n/a	ElectroEncephaloGram	100.0	good	n/a	A2
+F3-A1	EEG	µV	n/a	n/a	ElectroEncephaloGram	100.0	good	n/a	A1
+F4-A2	EEG	µV	n/a	n/a	ElectroEncephaloGram	100.0	good	n/a	A2
+C3-A1	EEG	µV	n/a	n/a	ElectroEncephaloGram	100.0	good	n/a	A1
+C4-A2	EEG	µV	n/a	n/a	ElectroEncephaloGram	100.0	good	n/a	A2
+P3-A1	EEG	µV	n/a	n/a	ElectroEncephaloGram	100.0	good	n/a	A1
+P4-A2	EEG	µV	n/a	n/a	ElectroEncephaloGram	100.0	good	n/a	A2
+O1-A1	EEG	µV	n/a	n/a	ElectroEncephaloGram	100.0	good	n/a	A1
+O2-A2	EEG	µV	n/a	n/a	ElectroEncephaloGram	100.0	good	n/a	A2
+F7-A1	EEG	µV	n/a	n/a	ElectroEncephaloGram	100.0	good	n/a	A1
+F8-A2	EEG	µV	n/a	n/a	ElectroEncephaloGram	100.0	good	n/a	A2
+T3-A1	EEG	µV	n/a	n/a	ElectroEncephaloGram	100.0	good	n/a	A1
+T4-A2	EEG	µV	n/a	n/a	ElectroEncephaloGram	100.0	good	n/a	A2
+T5-A1	EEG	µV	n/a	n/a	ElectroEncephaloGram	100.0	good	n/a	A1
+T6-A2	EEG	µV	n/a	n/a	ElectroEncephaloGram	100.0	good	n/a	A2
+Add_lead1	MISC	µV	n/a	n/a	Miscellaneous	100.0	bad	auxiliary input without signal (flat)	n/a
+Add_lead2	MISC	µV	n/a	n/a	Miscellaneous	100.0	bad	auxiliary input without signal (flat)	n/a

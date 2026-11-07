@@ -1,0 +1,27 @@
+{
+    "TaskName": "dance",
+    "Manufacturer": "Contec Medical Systems",
+    "PowerLineFrequency": 50,
+    "SamplingFrequency": 100.0,
+    "SoftwareFilters": "n/a",
+    "RecordingDuration": 436.99,
+    "RecordingType": "continuous",
+    "EEGReference": "Ipsilateral earlobe: A1 for left-hemisphere and A2 for right-hemisphere sites",
+    "EEGGround": "n/a",
+    "EEGPlacementScheme": "International 10-20 system, 16 scalp sites, no midline electrodes",
+    "EEGChannelCount": 16,
+    "EOGChannelCount": 0,
+    "ECGChannelCount": 0,
+    "EMGChannelCount": 0,
+    "MiscChannelCount": 2,
+    "TriggerChannelCount": 0,
+    "ManufacturersModelName": "KT88-1016",
+    "CapManufacturer": "n/a (individual dry electrodes)",
+    "HardwareFilters": {
+        "EstimatedFromSpectra": {
+            "HighPass": "about 0.5-1 Hz",
+            "LowPass": "about 35 Hz (steep)"
+        }
+    },
+    "TaskDescription": "Three Balinese dance movements (ngeed, agem right, agem left), 4 repetitions each in two blocks separated by a 3-min standing rest (descent, hold, ascent paced by an instruction display), followed by a Romberg-type protocol: 30 s standing with eyes open, 15 s rest, 30 s with eyes closed."
+}

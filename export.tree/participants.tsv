@@ -1,0 +1,39 @@
+participant_id	group	age_group	sex	dance_experience	practice_per_month	stork_eo_right	stork_eo_left	stork_ec_right	stork_ec_left
+sub-01	dancer	15-19	F	10-19 y	1-4	218	230	24	21
+sub-02	dancer	15-19	F	10-19 y	>10	225	221	35	20
+sub-03	dancer	15-19	F	10-19 y	5-10	210	211	20	28
+sub-04	dancer	15-19	F	10-19 y	>10	240	240	58	60
+sub-05	dancer	15-19	F	10-19 y	>10	240	240	73	111
+sub-06	dancer	30-39	F	20-39 y	>10	180	200	10	4
+sub-07	dancer	20-29	F	20-39 y	>10	222	240	28	5
+sub-08	dancer	50-59	F	40+ y	5-10	240	189	8	44
+sub-09	dancer	30-39	F	20-39 y	5-10	189	195	6	13
+sub-10	non-dancer	50-59	F	none	none	82	25	4	4
+sub-11	dancer	30-39	F	20-39 y	>10	171	215	57	107
+sub-12	dancer	20-29	F	20-39 y	>10	104	145	12	23
+sub-13	dancer	30-39	F	10-19 y	>10	212	240	70	23
+sub-14	dancer	30-39	F	20-39 y	5-10	240	240	94	95
+sub-15	dancer	40-49	F	10-19 y	1-4	240	240	27	41
+sub-16	dancer	60+	F	20-39 y	1-4	3	4	3	3
+sub-17	dancer	50-59	F	40+ y	1-4	45	55	8	27
+sub-18	dancer	60+	F	40+ y	1-4	40	5	4	2
+sub-19	dancer	60+	F	40+ y	1-4	202	18	16	7
+sub-20	dancer	50-59	F	40+ y	1-4	113	139	9	5
+sub-21	dancer	60+	F	40+ y	1-4	240	81	13	54
+sub-22	non-dancer	20-29	F	none	none	185	88	36	9
+sub-23	non-dancer	20-29	F	none	none	47	87	11	4
+sub-24	non-dancer	20-29	F	none	none	103	112	26	4
+sub-25	non-dancer	40-49	F	none	none	90	83	7	5
+sub-26	non-dancer	40-49	F	none	none	141	30	71	21
+sub-27	non-dancer	30-39	F	none	none	117	83	14	5
+sub-28	non-dancer	40-49	F	none	none	48	151	11	25
+sub-29	dancer	50-59	F	40+ y	>10	240	240	39	16
+sub-30	dancer	50-59	F	40+ y	1-4	161	40	28	8
+sub-31	non-dancer	40-49	F	none	none	61	65	6	20
+sub-32	non-dancer	40-49	F	none	none	22	17	5	6
+sub-33	non-dancer	30-39	F	none	none	240	240	28	28
+sub-34	dancer	30-39	F	20-39 y	5-10	240	240	22	7
+sub-35	non-dancer	20-29	F	none	none	240	240	28	8
+sub-36	non-dancer	50-59	F	none	none	240	240	36	6
+sub-37	non-dancer	50-59	F	none	none	240	240	4	4
+sub-38	non-dancer	40-49	F	none	none	101	50	3	9

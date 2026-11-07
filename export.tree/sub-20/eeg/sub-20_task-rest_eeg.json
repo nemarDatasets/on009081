@@ -1,0 +1,27 @@
+{
+    "TaskName": "rest",
+    "Manufacturer": "Contec Medical Systems",
+    "PowerLineFrequency": 50,
+    "SamplingFrequency": 100.0,
+    "SoftwareFilters": "n/a",
+    "RecordingDuration": 69.99,
+    "RecordingType": "continuous",
+    "EEGReference": "Ipsilateral earlobe: A1 for left-hemisphere and A2 for right-hemisphere sites",
+    "EEGGround": "n/a",
+    "EEGPlacementScheme": "International 10-20 system, 16 scalp sites, no midline electrodes",
+    "EEGChannelCount": 16,
+    "EOGChannelCount": 0,
+    "ECGChannelCount": 0,
+    "EMGChannelCount": 0,
+    "MiscChannelCount": 2,
+    "TriggerChannelCount": 0,
+    "ManufacturersModelName": "KT88-1016",
+    "CapManufacturer": "n/a (individual dry electrodes)",
+    "HardwareFilters": {
+        "EstimatedFromSpectra": {
+            "HighPass": "about 0.5-1 Hz",
+            "LowPass": "about 35 Hz (steep)"
+        }
+    },
+    "TaskDescription": "Resting recording made before the task session (about 1 min, standing, eyes open)."
+}
