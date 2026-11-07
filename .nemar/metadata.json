@@ -1,30 +1,109 @@
 {
   "version": "2.0",
-  "dataset_id": "on009081",
-  "source": "openneuro",
-  "source_id": "ds009081",
+  "pipeline_stage": "validated",
   "title": "EEG during Balinese dance movements and balance tasks in expert dancers and non-dancers",
-  "authors": {
-    "I Putu Adiartha Griadhi": {},
-    "Nila Wahyuni": {},
-    "Indira Vidiari Juhanna": {},
-    "Ida Ayu Astiti Suadnyana": {}
-  },
   "license": "CC0",
   "dataset_type": "raw",
+  "authors": {
+    "I Putu Adiartha Griadhi": {
+      "orcid": "0000-0002-9895-9353",
+      "affiliations": [
+        {
+          "name": "Universitas Udayana Fakultas Kedokteran"
+        }
+      ]
+    },
+    "Nila Wahyuni": {
+      "orcid": "0000-0002-1800-5753",
+      "affiliations": [
+        {
+          "name": "Udayana University",
+          "identifier": "https://ror.org/035qsg823",
+          "scheme": "ROR"
+        }
+      ]
+    },
+    "Indira Vidiari Juhanna": {
+      "orcid": "0000-0001-6719-8574",
+      "affiliations": [
+        {
+          "name": "Udayana University",
+          "identifier": "https://ror.org/035qsg823",
+          "scheme": "ROR"
+        }
+      ]
+    },
+    "Ida Ayu Astiti Suadnyana": {
+      "orcid": "0000-0002-9874-0351",
+      "affiliations": [
+        {
+          "name": "Universitas Bali Internasional",
+          "identifier": "https://ror.org/02tede246",
+          "scheme": "ROR"
+        }
+      ]
+    }
+  },
   "related_identifiers": [
     {
       "identifier": "10.18112/openneuro.ds009081.v1.0.0",
       "identifier_type": "DOI",
-      "relation_type": "IsIdenticalTo"
+      "relation_type": "IsDerivedFrom"
+    },
+    {
+      "identifier": "10.5281/zenodo.24026706",
+      "identifier_type": "DOI",
+      "relation_type": "References"
+    },
+    {
+      "identifier": "https://github.com/nemarDatasets/on009081",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "https://nemar.org/dataset/on009081",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
     }
   ],
-  "pipeline_stage": "seeded",
-  "bids_version": "1.9.0",
-  "recording_modality": [
+  "resource_type_general": "Dataset",
+  "modalities": [
     "eeg"
   ],
-  "datatypes": [
-    "eeg"
-  ]
+  "resource_type_specific": "EEG Dataset",
+  "sizes": [
+    "65.69 MB (77 files)"
+  ],
+  "formats": [
+    ".edf",
+    ".json",
+    ".jsonl",
+    ".md",
+    ".tsv"
+  ],
+  "description": "Raw 16-channel dry-electrode EEG from 38 women (23 expert Balinese dancers and 15 non-dancers) recorded in a single session. The session included three Balinese dance movements (ngeed, agem right, agem left), a Romberg-type standing protocol with eyes open and closed, and a separate resting recording. Standing Stork balance times and categorised dance experience are provided in the participants file, along with manually annotated movement-phase events.",
+  "methods_description": "EEG was recorded with a KT88-1016 digital system (Contec Medical Systems) using 16 dry scalp electrodes in the 10-20 layout without midline sites. Each electrode was referenced to the ipsilateral earlobe (A1 or A2), with 100 Hz sampling and an effective bandwidth of about 0.5-35 Hz. Movement phases (descent, hold, ascent) were annotated manually from video, and Standing Stork times were measured with a Takei balance tester before the EEG session.",
+  "keywords": [
+    {
+      "term": "EEG"
+    },
+    {
+      "term": "Balinese dance"
+    },
+    {
+      "term": "Postural Balance",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004856"
+    },
+    {
+      "term": "Romberg test"
+    },
+    {
+      "term": "expert dancers"
+    },
+    {
+      "term": "dry electrodes"
+    }
+  ],
+  "source_hash": "e20d96353aff3b75fa38e8bf28910b7e3f4bd6806cbb13634f1c25aa9ed1846c"
 }
