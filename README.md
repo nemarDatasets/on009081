@@ -1,3 +1,5 @@
+[![DOI](https://img.shields.io/badge/DOI-10.82901%2Fnemar.on009081-blue)](https://doi.org/10.82901/nemar.on009081)
+
 # EEG during Balinese dance movements and balance tasks in expert dancers and non-dancers
 
 Raw 16-channel EEG from 38 women (23 expert Balinese dancers, 15 non-dancers; age 15 years and older), recorded
