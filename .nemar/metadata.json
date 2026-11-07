@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "EEG during Balinese dance movements and balance tasks in expert dancers and non-dancers",
-  "description": "Raw 16-channel EEG from 38 women (23 expert Balinese dancers and 15 non-dancers) recorded in a single session with two paradigms: three Balinese dance movements (ngeed, agem right, agem left) and a Romberg-type standing task. A separate resting recording is included. Movement phases are annotated from video, and Standing Stork balance times are provided in the participant metadata.",
-  "methods_description": "EEG was recorded with a KT88-1016 digital EEG system (Contec Medical Systems) using 16 dry scalp electrodes placed according to the 10-20 system without midline sites. Each electrode was referenced to the ipsilateral earlobe (A1/A2). Sampling rate was 100 Hz with an effective bandwidth of about 0.5-35 Hz. Movement phases (descent, hold, ascent) were annotated manually from video. Standing Stork times were measured with a Takei balance tester before the EEG session.",
+  "description": "Raw 16-channel EEG from 38 women (23 expert Balinese dancers and 15 non-dancers) recorded in a single session with two paradigms: three Balinese dance movements (ngeed, agem right, agem left) and a Romberg-type standing task. The dataset includes a separate resting recording, manually annotated movement-phase events, and Standing Stork balance times in the participants file. It supports research on cortical activity, motor expertise and postural balance in traditional dancers.",
+  "methods_description": "EEG was recorded with a KT88-1016 digital EEG system (Contec Medical Systems) using 16 dry scalp electrodes in a 10-20 layout without midline sites. Each electrode was referenced to the ipsilateral earlobe. Sampling rate was 100 Hz with an effective bandwidth of about 0.5-35 Hz. Movement phases (descent, hold, ascent) were annotated manually from video. Standing Stork times were measured with a Takei balance tester before the EEG session.",
   "license": "CC0",
   "dataset_type": "raw",
   "authors": {
@@ -54,7 +54,9 @@
       "term": "Balinese dance"
     },
     {
-      "term": "balance"
+      "term": "Postural Balance",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004856"
     },
     {
       "term": "Romberg test"
@@ -63,7 +65,7 @@
       "term": "expert dancers"
     },
     {
-      "term": "postural control"
+      "term": "motor expertise"
     }
   ],
   "related_identifiers": [
