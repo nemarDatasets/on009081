@@ -23,12 +23,13 @@
       "CodeURL": "https://mne.tools/mne-bids/"
     }
   ],
-  "DatasetDOI": "doi:10.18112/openneuro.ds009081.v1.0.0",
+  "DatasetDOI": "10.82901/nemar.on009081",
   "SourceDatasets": [
     {
       "DOI": "doi:10.18112/openneuro.ds009081.v1.0.0",
       "URL": "https://openneuro.org/datasets/ds009081/versions/1.0.0",
       "Version": "1.0.0"
     }
-  ]
+  ],
+  "Version": "1.0.0"
 }
