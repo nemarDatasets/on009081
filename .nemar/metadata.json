@@ -2,6 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "EEG during Balinese dance movements and balance tasks in expert dancers and non-dancers",
+  "description": "Raw 16-channel EEG from 38 women (23 expert Balinese dancers and 15 non-dancers) recorded in a single session with two paradigms: three Balinese dance movements (ngeed, agem right, agem left) and a Romberg-type standing task. A separate resting recording is included. Movement phases are annotated from video, and Standing Stork balance times are provided in the participant metadata.",
+  "methods_description": "EEG was recorded with a KT88-1016 digital EEG system (Contec Medical Systems) using 16 dry scalp electrodes placed according to the 10-20 system without midline sites. Each electrode was referenced to the ipsilateral earlobe (A1/A2). Sampling rate was 100 Hz with an effective bandwidth of about 0.5-35 Hz. Movement phases (descent, hold, ascent) were annotated manually from video. Standing Stork times were measured with a Takei balance tester before the EEG session.",
   "license": "CC0",
   "dataset_type": "raw",
   "authors": {
@@ -44,6 +46,26 @@
       ]
     }
   },
+  "keywords": [
+    {
+      "term": "EEG"
+    },
+    {
+      "term": "Balinese dance"
+    },
+    {
+      "term": "balance"
+    },
+    {
+      "term": "Romberg test"
+    },
+    {
+      "term": "expert dancers"
+    },
+    {
+      "term": "postural control"
+    }
+  ],
   "related_identifiers": [
     {
       "identifier": "10.18112/openneuro.ds009081.v1.0.0",
@@ -67,10 +89,10 @@
     }
   ],
   "resource_type_general": "Dataset",
+  "resource_type_specific": "EEG Dataset",
   "modalities": [
     "eeg"
   ],
-  "resource_type_specific": "EEG Dataset",
   "sizes": [
     "65.69 MB (77 files)"
   ],
@@ -79,31 +101,8 @@
     ".json",
     ".jsonl",
     ".md",
-    ".tsv"
+    ".tsv",
+    ".yml"
   ],
-  "description": "Raw 16-channel dry-electrode EEG from 38 women (23 expert Balinese dancers and 15 non-dancers) recorded in a single session. The session included three Balinese dance movements (ngeed, agem right, agem left), a Romberg-type standing protocol with eyes open and closed, and a separate resting recording. Standing Stork balance times and categorised dance experience are provided in the participants file, along with manually annotated movement-phase events.",
-  "methods_description": "EEG was recorded with a KT88-1016 digital system (Contec Medical Systems) using 16 dry scalp electrodes in the 10-20 layout without midline sites. Each electrode was referenced to the ipsilateral earlobe (A1 or A2), with 100 Hz sampling and an effective bandwidth of about 0.5-35 Hz. Movement phases (descent, hold, ascent) were annotated manually from video, and Standing Stork times were measured with a Takei balance tester before the EEG session.",
-  "keywords": [
-    {
-      "term": "EEG"
-    },
-    {
-      "term": "Balinese dance"
-    },
-    {
-      "term": "Postural Balance",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D004856"
-    },
-    {
-      "term": "Romberg test"
-    },
-    {
-      "term": "expert dancers"
-    },
-    {
-      "term": "dry electrodes"
-    }
-  ],
-  "source_hash": "e20d96353aff3b75fa38e8bf28910b7e3f4bd6806cbb13634f1c25aa9ed1846c"
+  "source_hash": "896449cbe846c20e209ea5f4c6882ffee67a15e5b2db1d7a31a5498f2971fc81"
 }
